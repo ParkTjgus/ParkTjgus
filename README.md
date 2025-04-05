@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=영남대학교 컴퓨터공학과 박서현;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FrontEnd+Developer+ParkTjgus)](https://git.io/typing-svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ![](https://komarev.com/ghpvc/?username=ParkTjgus&color=ff69b4)
 <!--
