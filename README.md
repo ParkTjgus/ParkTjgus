@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20ParkTjgus's%20github&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20ParkTjgus's%20github&fontSize=30&fontColor=black" />
 </div>
 <h2> 👩‍💻 프론트엔드 개발자 박서현 </h2>
 안녕하세요, 영남대학교 컴퓨터공학과에 재학 중인 박서현입니다.<br>
