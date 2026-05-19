@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20ParkTjgus's%20github&fontSize=30&fontColor=black" />
 </div>
 <h2> 👩‍💻 프론트엔드 개발자 박서현 </h2>
-안녕하세요, 영남대학교 컴퓨터공학과에 재학 중인 박서현입니다.<br>
+안녕하세요, 박서현입니다.<br>
 프론트엔드 개발자를 희망하고 있습니다. <br>
 현재 Typescript와 React를 공부하고 있습니다. <br>
 
@@ -39,10 +39,3 @@
 <br>
 <br>
 
- [![ParkTjgus's github stats](https://github-readme-stats.vercel.app/api?username=ParkTjgus)](https://github.com/ParkTjgus/github-readme-stats)
- <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkTjgus)](https://github.com/ParkTjgus/github-readme-stats)
-<!--
-**ParkTjgus/ParkTjgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/yoshi389111/github-profile-3d-contrib
-https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file#-badges-
